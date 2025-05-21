@@ -8,7 +8,7 @@ const themeSwitch = document.getElementById('checkbox');
 
 // Configuration
 const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
-const API_KEY = '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';
+const API_KEY = 'API KEY HERE'; // Replace with your API key
 const MODEL = 'nousresearch/deephermes-3-mistral-24b-preview:free';
 const TOKEN_WARNING_THRESHOLD = 2000; // Show warning at 2000 tokens
 const TOKEN_LIMIT = 4000; // Maximum tokens before forcing new chat
