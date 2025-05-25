@@ -436,7 +436,6 @@ input:checked + .slider:before {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-/* Updating chat-container to have a glass effect */
 .chat-container {
     background: var(--glass-bg);
     backdrop-filter: blur(16px) saturate(180%);
